@@ -1,3 +1,7 @@
+
+.portfolio {
+    @extend %section;
+}
 .projects {
     display: flex;
     flex-wrap: wrap;
@@ -71,15 +75,6 @@
     margin-left: 30px;
     margin-right: 30px;
 }
-
-
-
-
-
-
-
-
-
 
 
 /* Позиционирование элементов портфолио */

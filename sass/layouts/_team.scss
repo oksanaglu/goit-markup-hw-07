@@ -1,4 +1,6 @@
-
+.team {
+    @extend %section;
+}
 
 .team__wrapper {
     padding-top: 30px;

@@ -1,3 +1,7 @@
+.partner {
+    @extend %section;
+}
+
 .partner-list {
     display: flex;
     flex-wrap: wrap;

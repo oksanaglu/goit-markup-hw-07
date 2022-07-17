@@ -1,4 +1,6 @@
-
+.work {
+    @extend %section;
+}
 
 .no-padding {
     padding-top: 0;

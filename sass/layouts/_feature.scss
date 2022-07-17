@@ -1,4 +1,8 @@
 
+.feature {
+    @extend %section;
+}
+
 .feature-list {
     display: flex;
     flex-wrap: wrap;
